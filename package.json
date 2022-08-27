@@ -1,6 +1,6 @@
 {
   "name": "remark-super",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Superscript transformer plugin for Remark to transform ^text^ into a <sup>text</sup> element.",
   "main": "index.js",
@@ -16,6 +16,10 @@
   ],
   "author": "Benbinbin <benthomsonbin@gmail.com> (https://www.benbinbin.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Benbinbin/remark-super.git"
+  },
   "dependencies": {
     "unist-util-visit": "^4.1.0"
   }
