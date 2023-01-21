@@ -11,7 +11,7 @@ npm install remark-super
 
 ```js
 import {remark} from 'remark';
-import remarkSuper from 'remark-sub';
+import remarkSuper from 'remark-super';
 
 const doc = 'This is a ^superscript^';
 remark().use(remarkSuper).process(doc).then(file => {
