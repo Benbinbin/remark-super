@@ -1,6 +1,6 @@
 {
   "name": "remark-super",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "Superscript transformer plugin for Remark to transform ^text^ into a <sup>text</sup> element.",
   "main": "index.js",
